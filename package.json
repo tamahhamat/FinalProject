@@ -16,6 +16,7 @@
   "dependencies": {
     "express": "^4.19.2",
     "pg": "^8.11.5",
+    "pg-promise": "^11.6.0",
     "react": "^18.2.0",
     "react-router-dom": "^6.23.1"
   }
