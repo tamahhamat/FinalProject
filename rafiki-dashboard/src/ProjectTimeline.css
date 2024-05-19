@@ -1,0 +1,23 @@
+.timeline {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.timeline-item {
+  margin-bottom: 15px;
+}
+
+.project-name {
+  font-size: 14px;
+  color: teal;
+  font-weight: bold;
+  white-space: pre-wrap; 
+}
+
+.project-completed {
+  font-size: 12px;
+  color: gray;
+  font-weight: normal;
+  margin-top: 5px;
+}
