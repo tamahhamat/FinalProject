@@ -1,7 +1,7 @@
 .timeline {
   display: flex;
   flex-direction: column;
-  padding: 20px;
+  padding: 35px;
 }
 
 .timeline-item {
